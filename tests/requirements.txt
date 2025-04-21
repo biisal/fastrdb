@@ -1,0 +1,8 @@
+pytest
+pytest-asyncio
+sqlalchemy
+aiosqlite
+pydantic
+redis
+faker
+orjson
